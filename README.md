@@ -1,5 +1,4 @@
 # About_Me
-My personal repository
 
 👋 Hi there, I’m @AvielGabay
 
